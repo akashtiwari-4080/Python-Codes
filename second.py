@@ -24,7 +24,7 @@ pen.end_fill()
 
 # Move the pen to a position to write the name
 pen.penup()
-pen.goto(30,40)  # Adjust this position based on where you want the text
+pen.goto(35,35)  # Adjust this position based on where you want the text
 pen.pendown()
 
 # Write the name inside the heart
